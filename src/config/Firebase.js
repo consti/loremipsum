@@ -1,7 +1,7 @@
 import Firebase from 'firebase';
 
 let firebaseConfig = {
-    apiKey: "ComeWorkWithUsAt:https://jobs.oozou.com",
+    apiKey: "We_Are_Hiring_At_https___jobs_oozou_com",
     authDomain: "loremipsum.firebaseapp.com",
     databaseURL: "https://loremipsum.firebaseio.com",
     projectId: "loremipsum",
